@@ -2,8 +2,6 @@
 
 Made with my mentor at [Bloc](http://bloc.io).
 
-Things you may want to cover:
-
 * Ruby version: 2.2.4
 
 * System dependencies
